@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : ProjectMPIReduce_BOR.c
- Author      : diego
+ Author      : DIEGO
  Version     :
  Copyright   : Your copyright notice
  Description :

@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : ProjectMPIReduce_BAND.c
- Author      : Diego
+ Author      : DIEGO
  Version     :
  Copyright   : Your copyright notice
  Description :

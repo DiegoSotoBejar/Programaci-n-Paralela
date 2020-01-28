@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : ProjectMPIReduce_MIN.c
- Author      : Diego
+ Author      : DIEGO
  Version     :
  Copyright   : Your copyright notice
  Description : Calculate Pi in MPI

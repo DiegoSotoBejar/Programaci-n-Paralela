@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : ProjectMPIReduce_MINLOC.c
- Author      : Diego
+ Author      : DIEGO
  Version     :
  Copyright   : Your copyright notice
  Description :

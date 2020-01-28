@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : ProjectMPIReduce_LAND.c
- Author      : Diego
+ Author      :DIEGO
  Version     :
  Copyright   : Your copyright notice
  Description : Calculate Pi in MPI
